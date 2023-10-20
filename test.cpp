@@ -1,6 +1,7 @@
 #include<iostream>
-#include"compiler.h"
 using namespace std;
+
+#include"compiler.h"
     
 int main(){
     string str="(add 2(sub (4 3)))";
